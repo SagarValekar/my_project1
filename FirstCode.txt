@@ -2,3 +2,6 @@ Test File First Code!!
 take a input from user
 add the value
 
+
+The avtar feature added
+
